@@ -1,2 +1,4 @@
 Step 6
 Step 18 - changes to file3.txt in main branch
+Step 6 - initial commit
+Step 15 - edit file3.txt
